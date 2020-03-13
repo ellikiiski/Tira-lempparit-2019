@@ -10,7 +10,7 @@ Tehtävänäsi on toteuttaa tehtäväpohjassa oleva luokka <em>Laskuri</em> ja s
 
 <pre>Laskuri() // luo tyhjän jonon
 void lisaaJonoon() // lisää jonon perälle uuden asiakkaan
-void veloita(long x) //veloittaa jokaiselta jonossa tällä hetkellä olevalta jonottajalta x euroa
+void veloita(long x) // veloittaa jokaiselta jonossa tällä hetkellä olevalta jonottajalta x euroa
 long paastaSisaan() // päästää jonossa ensimmäisenä olevan asiakkaan sisään ja palauttaa tiedon siitä,
                        kuinka monta euroa kyseinen asiakas on joutunut maksamaan ovimiehelle jonossa pysyäkseen</pre>
 
