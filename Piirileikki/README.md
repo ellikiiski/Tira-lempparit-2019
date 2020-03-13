@@ -5,7 +5,7 @@ Tee luokka Piirileikki, jossa on seuraava metodi:
 
 <em>public int viimeinen(int n)</em>
 
-Metodin tulee palauttaa viimeisenä piirissä olevan lapsen numero. Voit olettaa, että n on kokonaisluku välillä 1...10^6.
+Metodin tulee palauttaa viimeisenä piirissä olevan lapsen numero. Voit olettaa, että n on kokonaisluku välillä 1...10<sup>6</sup>.
 Seuraava koodi esittelee luokan käyttämistä:
 
 <pre>Piirileikki p = new Piirileikki();
