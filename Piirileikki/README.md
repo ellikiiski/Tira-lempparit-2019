@@ -1,4 +1,4 @@
-##Piirileikki##
+## Piirileikki ##
 
 Piirissä on n lasta, jotka on numeroitu 1, 2, 3, ..., n. Vuoro kiertää piirissä lapsesta 1 alkaen niin, että joka toinen lapsi jää piiriin ja joka toinen poistuu siitä. Esimerkiksi kun n = 6, lapset poistuvat piiristä järjestyksessä 2, 4, 6, 3, 1, 5.
 Tee luokka Piirileikki, jossa on seuraava metodi:
