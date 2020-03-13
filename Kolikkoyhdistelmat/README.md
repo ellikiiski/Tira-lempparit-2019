@@ -1,7 +1,7 @@
 ## Kolikkoyhdistelmät ##
 
-Sinulla on n kolikkoa, joilla on tietyt arvot. Monellako tavalla voit valita osajoukon kolikoista niin, että niiden arvojen summa on haluttu luku?
-Esimerkiksi jos n = 4 ja kolikot ovat [2,2,2,3], voit valita 3 tavalla osajoukon, jonka summa on 7. Osajoukossa on kaksi kolikkoa, joiden arvo on 2, sekä yksi kolikko, jonka arvo on 3.
+Sinulla on <em>n</em> kolikkoa, joilla on tietyt arvot. Monellako tavalla voit valita osajoukon kolikoista niin, että niiden arvojen summa on haluttu luku?
+Esimerkiksi jos <em>n</em> = 4 ja kolikot ovat [2,2,2,3], voit valita 3 tavalla osajoukon, jonka summa on 7. Osajoukossa on kaksi kolikkoa, joiden arvo on 2, sekä yksi kolikko, jonka arvo on 3.
 
 Tee luokka <em>Kolikot</em>, jossa on seuraavat metodit:
 
