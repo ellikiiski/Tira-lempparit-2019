@@ -10,8 +10,6 @@ public class Main {
         System.out.println(a.laskeAnagrammit("apina")); // 0
         System.out.println(a.laskeAnagrammit("sointumerkki")); // 1
         a.lisaaSana("isontaa");
-        System.out.println(a.laskeAnagrammit("tosiaan")); // 3
-        
-        
+        System.out.println(a.laskeAnagrammit("tosiaan")); // 3        
     }
 }
