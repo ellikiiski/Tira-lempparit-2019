@@ -3,7 +3,7 @@ import java.util.*;
 public class Mediaani {
     private PriorityQueue<Integer> alleM;
     private PriorityQueue<Integer> yliM;
-    boolean alleMisompi;
+    private boolean alleMisompi;
     
     public Mediaani() {
         alleM = new PriorityQueue<>(1000000, Collections.reverseOrder());
