@@ -7,10 +7,10 @@ Oletetaan että koneet ovat seuraavat:
 
 | kone | toiminta-aika |
 | :----:|:-----|
-| A | 2 |
-| B | 3 |
-| C | 6 |
-| D | 8 |
+| A | 1 |
+| B | 2 |
+| C | 3 |
+| D | 4 |
 
 Kun haluat valmistaa 10 tuotetta, yksi optimaalisista tavoista on seuraava:
 
