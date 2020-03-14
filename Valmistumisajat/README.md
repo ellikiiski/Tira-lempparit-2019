@@ -15,24 +15,14 @@ Oletetaan että koneet ovat seuraavat:
 Kun haluat valmistaa 10 tuotetta, yksi optimaalisista tavoista on seuraava:
 
 | ajanhetki |	tapahtumat |
+| :----:|:-----|
 | 0	| Laitat käyntiin koneet A, B, C ja D. |
-| 1	| Kone A saa valmiiksi tuotteen.
-Laitat uudestaan käyntiin koneen A.
-(1 tuote valmiina.) |
-| 2	| Koneet A ja B saavat valmiiksi tuotteen.
-Laitat uudestaan käyntiin koneet A ja B.
-(3 tuotetta valmiina.) |
-| 3	| Koneet A ja C saavat valmiiksi tuotteen.
-Laitat uudestaan käyntiin koneet A ja C.
-(5 tuotetta valmiina.) |
-| 4	| Koneet A, B ja D saavat valmiiksi tuotteen.
-Laitat uudestaan käyntiin koneen B.
-(8 tuotetta valmiina.) |
-| 5	| Käyt hesarin nettisivulla lukemassa
-päivän fingerporin. |
-| 6	| Koneet B ja C saavat valmiiksi tuotteen.
-(10 tuotetta valmiina.)
-Tehtävä suoritettu! |
+| 1	| Kone A saa valmiiksi tuotteen. Laitat uudestaan käyntiin koneen A. (1 tuote valmiina.) |
+| 2	| Koneet A ja B saavat valmiiksi tuotteen. Laitat uudestaan käyntiin koneet A ja B. (3 tuotetta valmiina.) |
+| 3	| Koneet A ja C saavat valmiiksi tuotteen. Laitat uudestaan käyntiin koneet A ja C. (5 tuotetta valmiina.) |
+| 4	| Koneet A, B ja D saavat valmiiksi tuotteen. Laitat uudestaan käyntiin koneen B. (8 tuotetta valmiina.) |
+| 5	| Käyt hesarin nettisivulla lukemassa päivän fingerporin. |
+| 6	| Koneet B ja C saavat valmiiksi tuotteen. (10 tuotetta valmiina.) Tehtävä suoritettu! |
 
 Toteuta seuraava metodi:
 
@@ -47,7 +37,7 @@ Metodin tulee palauttaa pienin mahdollinen aika, jossa saat valmistettua tuottee
 
 Esimerkit
 
-<pre>lyhinAika(new int[] {1}, 5)	// 5
-lyhinAika(new int[] {1, 1, 1}, 6) //	2
-lyhinAika(new int[] {5, 1, 1}, 6)	// 3
-lyhinAika(new int[] {1, 2, 3, 4}, 10) //	6</pre>
+<pre>lyhinAika(new int[] {1}, 5) // 5
+lyhinAika(new int[] {1, 1, 1}, 6) // 2
+lyhinAika(new int[] {5, 1, 1}, 6) // 3
+lyhinAika(new int[] {1, 2, 3, 4}, 10) // 6</pre>
