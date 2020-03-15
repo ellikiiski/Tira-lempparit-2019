@@ -24,6 +24,6 @@ Olkoon matriisi <em>et</em> seuraavanlainen:
 
 Matriisin kuvaama verkko näyttää siis tältä:
 
-Kauppamatkustajan verkko
+![Esimerkkiverkko](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/Kauppamatkustaja/kauppamatkustaja.png)
 
 Nyt yksi esimerkki lyhimmästä mahdollisesta kierroksesta käy kaupungit läpi järjestyksessä 0→2→1→3→0. Tämän reitin pituus on 2+4+2+1=9, joka on haettu vastaus.
