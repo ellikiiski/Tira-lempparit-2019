@@ -1,6 +1,7 @@
 ## Kanansiivet ##
 
 Ravintola myy kanansiipiä eri kokoisissa paketeissa. Tehtäväsi on rakentaa luokka, johon voi lisätä tarjolle paketteja ja niiden hintoja sekä selvittää halvimman tavan hankkia tietyn määrän kanansiipiä.
+
 Tarkastellaan esimerkkiä, jossa tarjolla ovat seuraavat paketit:
 
 * paketti 1: voit ostaa 1 kanansiiven hintaan 3
