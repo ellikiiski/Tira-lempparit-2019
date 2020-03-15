@@ -1,6 +1,6 @@
 ## Kauppamatkustaja ##
 
-Kauppamatkustaja haluaa käydä <em>n</em> kaupungissa, joiden väliset etäisyydet on tallennettu <em>n \times n</em> matriisiin (eli kaksiulotteiseen taulukkoon) <em>et</em>.
+Kauppamatkustaja haluaa käydä <em>n</em> kaupungissa, joiden väliset etäisyydet on tallennettu <em>n</em> kertaa <em>n</em> matriisiin (eli kaksiulotteiseen taulukkoon) <em>et</em>.
 Kauppamatkustaja haluaa kiertää kaikki kaupungit läpi mahdollisimman nopeasti. Hän aloittaa kierroksensa kaupungista 0, käy kaikissa muissa
 kaupungeissa **tasan kerran** ja palaa lopuksi kaupunkiin 0. Auta kauppamatkustajaa selvittämään lyhimmän mahdollisen kierroksen pituus.
 
