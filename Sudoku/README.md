@@ -9,12 +9,11 @@ Tee metodi void <em>ratkaise(int[][] sudoku)</em>, joka ratkaisee annetun sudoku
 
 Voit olettaa, että metodille annettuun sudokuun on olemassa yksikäsitteinen ratkaisu.
 
-Suomalainen Arto Inkala on laatinut "yhden maailman vaikeimmista Sudokuista": 
-[SudokuWiki.org - Arto Inkala Sudoku](https://www.sudokuwiki.org/Arto_Inkala_Sudoku)
+Suomalainen Arto Inkala on laatinut ["yhden maailman vaikeimmista sudokuista"](https://www.sudokuwiki.org/Arto_Inkala_Sudoku).
 
 Tee ohjelmastasi sellainen, että se ratkaisee kyseisen sudokun (ja muutkin löytämäsi sudokut) silmänräpäyksessä.
 
-Esimerkki: Helppo sudoku
+**Esimerkki: Helppo sudoku**
           
 <pre>8??93???2
 ??9????4?
@@ -38,7 +37,7 @@ Ratkaisu:
 638471529
 594362718</pre>
 
-Esimerkki: "Maailman vaikein" sudoku
+**Esimerkki: "Maailman vaikein" sudoku**
 
 <pre>??53?????
 8??????2?
@@ -62,7 +61,7 @@ Ratkaisu:
 984761235
 521839764</pre>
 
-Esimerkki: Toinen vaikea sudoku
+**Esimerkki: Toinen vaikea sudoku**
 
 <pre>?????????
 ?????3?85
