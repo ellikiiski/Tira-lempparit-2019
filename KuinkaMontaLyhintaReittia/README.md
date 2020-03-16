@@ -1,4 +1,4 @@
-## Kuinka monta lyhintä reittiä ##
+## Kuinka monta lyhintä reittiä? ##
 ### HUOM ratkaisu ei toimi oikein! ###
 
 Verkon solmut esittävät kaupunkeja ja kaaret yhteyksiä kaupunkien välillä. Kaupungit on numeroitu luvuilla 1,…,<em>n</em>, missä 1≤<em>n</em>≤10<sup>5</sup>. Olemme kiinnostuneita lyhimmistä reiteistä kaupungista 1 kaupunkiin n. Lyhin reitti ei välttämättä ole yksikäsitteinen, vaan usealla eri reitillä voi olla sama pienin mahdollinen pituus. Tehtävänä on määrittää lyhimpien reittien lukumäärä.
