@@ -1,5 +1,10 @@
 
 import java.util.*;
+
+// HUOM
+// Tämä ei ole toimiva ratkaisu
+// !!!!!!!!!!
+
 public class Main {
     
     static int lyhin;
