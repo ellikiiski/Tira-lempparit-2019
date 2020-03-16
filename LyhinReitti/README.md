@@ -1,4 +1,4 @@
-## Lyhin reitti ##
+## Lyhin reitti labyrintissa ##
 
 Sinulle annetaan labyrintin kuvaus, ja tehtäväsi on etsiä lyhin reitti alkuruudusta loppuruutuun. Kuvauksessa 0 tarkoittaa lattiaa, 1 tarkoittaa seinää, 2 tarkoittaa alkuruutua ja 3 tarkoittaa loppuruutua. Labyrintissa on tarkalleen yksi alkuruutu ja loppuruutu, ja jokainen reunaruutu on seinää.
 
