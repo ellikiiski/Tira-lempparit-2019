@@ -20,7 +20,7 @@ Tehtävässä alkuun auttava vinkki: Leveyshaulla lyhintä reittiä kahden solmu
 
 Esimerkit
 
-reittimaara(2, new int[] {1}, new int[] {2}) // 1
+<pre>reittimaara(2, new int[] {1}, new int[] {2}) // 1
 reittimaara(5, new int[] {1,1,2,3,4}, new int[] {2,3,4,4,5}) // 2
 reittimaara(5, new int[] {1, 1, 1, 2, 3, 4}, new int[] {2, 3, 4, 5, 5, 5}) // 3
-reittimaara(7, new int[] {1,2,3,1,1,4,5,6}, new int[] {2,3,7,4,5,6,6,7}) // 3
+reittimaara(7, new int[] {1,2,3,1,1,4,5,6}, new int[] {2,3,7,4,5,6,6,7}) // 3</pre>
