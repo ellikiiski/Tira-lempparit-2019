@@ -2,7 +2,7 @@
 
 Sinulle annetaan labyrintin kuvaus, ja tehtäväsi on etsiä lyhin reitti alkuruudusta loppuruutuun. Kuvauksessa 0 tarkoittaa lattiaa, 1 tarkoittaa seinää, 2 tarkoittaa alkuruutua ja 3 tarkoittaa loppuruutua. Labyrintissa on tarkalleen yksi alkuruutu ja loppuruutu, ja jokainen reunaruutu on seinää.
 
-Tee luokka <em>Labyrintti</em>, jossa on seuraavat metodi:
+Tee luokka <em>Labyrintti</em>, jossa on seuraava metodi:
 
 <pre>public int laske(int[][] kartta)</pre>
 
