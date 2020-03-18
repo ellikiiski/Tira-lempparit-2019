@@ -1,4 +1,5 @@
 ## Teiden kunnostus ##
+### HUOM tehtävää ei ole tehty lainkaan ###
 
 Kaupunkien väliset tiet ovat huonossa kunnossa ja jokaisesta tiestä tiedetään, paljonko sen kunnostaminen maksaisi. Tehtäväsi on etsiä ratkaisu, jossa teitä kunnostetaan niin, että jokaisen kahden kaupungin välillä pääsee matkustamaan kunnostettuja teitä pitkin ja kunnostamisen yhteishinta on pienin mahdollinen.
 
