@@ -1,6 +1,10 @@
 
 import java.util.*;
 
+    // HUOM
+    // ratkaisu ei toimi oikein
+    // suuressa testissä
+
 public class PeliVerkko {
 
     public int n = 1000001;
