@@ -7,7 +7,7 @@
 ### Tehtävät ja aiheet
 * Viikko 1
   * [Piirileikki](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Piirileikki)
-  [Kolikkoyhdistelmät](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Kolikkoyhdistelmat)
+  * [Kolikkoyhdistelmät](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Kolikkoyhdistelmat)
 * Viikko 2
 * Viikko 3
 * Viikko 4
