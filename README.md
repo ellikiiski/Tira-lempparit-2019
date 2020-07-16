@@ -4,7 +4,7 @@
 * [Antti Laaksosen "Tirakirja"](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/KURSSIMATERIAALI/tirakirja.pdf)
 * [Jyrki Kivisen luentomateriaali](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/KURSSIMATERIAALI/tira-luentomat.pdf)
 
-### Tehtävät viikottain
+### Tehtävät viikoittain
 * Viikko 1
   * [Piirileikki](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Piirileikki)
   * [Kolikkoyhdistelmät](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Kolikkoyhdistelmat)
@@ -15,7 +15,7 @@
   * [Inversiot](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Inversiot)
 * Viikko 4
   * [Pinolaskin](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Pinolaskin)
-  * [Listan lyhennyt](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/ListanLyhennys)
+  * [Listan lyhennys](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/ListanLyhennys)
   * [Ovimies](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Ovimies)
 * Viikko 5
   * [Hatut ja pallot](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/HatutJaPallot)
