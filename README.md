@@ -46,7 +46,7 @@
 * Viikko 12
   * [Suurin verkko?](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/SuurinVerkko)
   * [Teiden kunnostaminen](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/TeidenKunnostus) <em>(puutteellinen ratkaisu)</em>
-  * [Örkit ja haltiat](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/OrkitJaHaltiat)<em>(puutteellinen ratkaisu)</em>
+  * [Örkit ja haltiat](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/OrkitJaHaltiat) <em>(puutteellinen ratkaisu)</em>
 * Viikko 13
   * [Tiedonsiirtonopeudet](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Tiedonsiirtonopeudet)
   * [Tanssiparit](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Tanssiparit) <em>(puutteellinen ratkaisu)</em>
