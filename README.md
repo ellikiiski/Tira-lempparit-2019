@@ -11,6 +11,7 @@
 * Viikko 2
   * [Jakokohdat](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Jakokohdat)
 * Viikko 3
+  * [Bussipysäkit](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Bussipysakit)
   * [Inversiot](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Inversiot)
 * Viikko 4
   * [Pinolaskin](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Pinolaskin)
@@ -41,6 +42,7 @@
   * [Tietoliikenneverkon toipumisaika](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/LyhinReittiTieverkosto)
 * Viikko 11
   * [Kolikkopeli](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Kolikkopeli)
+  * [Ehyt lentoverkosto](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/EhytLentoverkosto)
 * Viikko 12
   * [Suurin verkko?](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/SuurinVerkko)
   * [Teiden kunnostaminen](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TeidenKunnostus)
