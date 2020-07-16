@@ -1,8 +1,8 @@
 # Parhaat palat kevään 2019 kurssilta Tietorakenteet ja algoritmit
 
 ### Kurssilla käytetyt materiaalit
-* [Antti Laaksosen "Tirakirja"](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/0-KURSSIMATERIAALI/tirakirja.pdf)
-* [Jyrki Kivisen luentomateriaali](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/0-KURSSIMATERIAALI/tira-luentomat.pdf)
+* [Antti Laaksosen "Tirakirja"](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/KURSSIMATERIAALI/tirakirja.pdf)
+* [Jyrki Kivisen luentomateriaali](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/KURSSIMATERIAALI/tira-luentomat.pdf)
 
 ### Tehtävät viikottain
 * Viikko 1
