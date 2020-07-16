@@ -1,7 +1,8 @@
 # Lempitehtäviä kevään 2019 kurssilta Tietorakenteet ja algoritmit
 
-### Kurssimateriaali
-Kurssilla käytössä oli nönnönnöö
+### Kurssilla käytetyt materiaalit
+* [Antti Laaksosen "Tirakirja"](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/0-KURSSIMATERIAALI/tirakirja.pdf)
+* [Jyrki Kivisen luentomateriaali](https://github.com/ellikiiski/Tira-lempparit-2019/blob/master/0-KURSSIMATERIAALI/tira-luentomat.pdf)
 
 ### Tehtävät ja aiheet
 * Viikko 1
