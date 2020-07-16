@@ -36,7 +36,7 @@
   * [Huoneiden lukumäärä](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/HuoneidenLukumaara)
   * [Onko reitti?](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/OnkoReitti)
   * [Lyhin reitti (labyrintti)](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/LyhinReittiLabyrintti)
-  * [Lyhimpien reittien lukumäärä](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/KuinkaMontaLyhintaReittia) <em>(puuttellinen ratkaisu)</em>
+  * [Lyhimpien reittien lukumäärä](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/KuinkaMontaLyhintaReittia) <em>(puutteellinen ratkaisu)</em>
 * Viikko 10
   * [Lyhin reitti (tieverkosto)](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/LyhinReittiTieverkosto)
   * [Tietoliikenneverkon toipumisaika](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/LyhinReittiTieverkosto)
