@@ -36,7 +36,7 @@
   * [Huoneiden lukumäärä](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/HuoneidenLukumaara)
   * [Onko reitti?](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/OnkoReitti)
   * [Lyhin reitti (labyrintti)](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/LyhinReittiLabyrintti)
-  * [Lyhimpien reittien lukumäärä](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/KuinkaMontaLyhintaReittia)
+  * [Lyhimpien reittien lukumäärä](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/KuinkaMontaLyhintaReittia) <em>(puuttellinen ratkaisu)</em>
 * Viikko 10
   * [Lyhin reitti (tieverkosto)](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/LyhinReittiTieverkosto)
   * [Tietoliikenneverkon toipumisaika](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/LyhinReittiTieverkosto)
@@ -45,9 +45,9 @@
   * [Ehyt lentoverkosto](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/EhytLentoverkosto)
 * Viikko 12
   * [Suurin verkko?](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/SuurinVerkko)
-  * [Teiden kunnostaminen](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/TeidenKunnostus)
-  * [Örkit ja haltiat](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/OrkitJaHaltiat)
+  * [Teiden kunnostaminen](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/TeidenKunnostus) <em>(puutteellinen ratkaisu)</em>
+  * [Örkit ja haltiat](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/OrkitJaHaltiat)<em>(puutteellinen ratkaisu)</em>
 * Viikko 13
   * [Tiedonsiirtonopeudet](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Tiedonsiirtonopeudet)
-  * [Tanssiparit](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Tanssiparit)
-  * [Kolikkoruudukko](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Kolikkoruudukko)
+  * [Tanssiparit](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Tanssiparit) <em>(puutteellinen ratkaisu)</em>
+  * [Kolikkoruudukko](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/TEHTAVAT/Kolikkoruudukko) <em>(puutteellinen ratkaisu)</em>
