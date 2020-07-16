@@ -9,8 +9,11 @@
   * [Piirileikki](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Piirileikki)
   * [Kolikkoyhdistelmät](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Kolikkoyhdistelmat)
 * Viikko 2
+  * [Jakokohdat](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Jakokohdat)
 * Viikko 3
+  * [Inversiot](https://github.com/ellikiiski/Tira-lempparit-2019/tree/master/Inversiot)
 * Viikko 4
+  * 
 * Viikko 5
 * Viikko 6
 * Viikko 7
